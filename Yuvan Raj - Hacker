@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yuvan Raj - Hacker</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            color: #007bff;
+        }
+        p {
+            font-size: 18px;
+        }
+        footer {
+            margin-top: 50px;
+            background-color: #007bff;
+            color: #fff;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Yuvan Raj</h1>
+        <p>Hacker Extraordinaire</p>
+        <p>Welcome to my personal webpage!</p>
+        <p>Stay tuned for some hacking adventures and insights.</p>
+    </div>
+    <footer>
+        <p>&copy; 2024 Yuvan Raj. All rights reserved.</p>
+    </footer>
+</body>
+</html>
